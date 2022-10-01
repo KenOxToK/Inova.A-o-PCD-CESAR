@@ -1,0 +1,15 @@
+C:\Inova.acaoPCD-CESAR\CarroViagem\bin\Debug\net6.0\CarroViagem.exe
+C:\Inova.acaoPCD-CESAR\CarroViagem\bin\Debug\net6.0\CarroViagem.deps.json
+C:\Inova.acaoPCD-CESAR\CarroViagem\bin\Debug\net6.0\CarroViagem.runtimeconfig.json
+C:\Inova.acaoPCD-CESAR\CarroViagem\bin\Debug\net6.0\CarroViagem.dll
+C:\Inova.acaoPCD-CESAR\CarroViagem\bin\Debug\net6.0\CarroViagem.pdb
+C:\Inova.acaoPCD-CESAR\CarroViagem\obj\Debug\net6.0\CarroViagem.csproj.AssemblyReference.cache
+C:\Inova.acaoPCD-CESAR\CarroViagem\obj\Debug\net6.0\CarroViagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inova.acaoPCD-CESAR\CarroViagem\obj\Debug\net6.0\CarroViagem.AssemblyInfoInputs.cache
+C:\Inova.acaoPCD-CESAR\CarroViagem\obj\Debug\net6.0\CarroViagem.AssemblyInfo.cs
+C:\Inova.acaoPCD-CESAR\CarroViagem\obj\Debug\net6.0\CarroViagem.csproj.CoreCompileInputs.cache
+C:\Inova.acaoPCD-CESAR\CarroViagem\obj\Debug\net6.0\CarroViagem.dll
+C:\Inova.acaoPCD-CESAR\CarroViagem\obj\Debug\net6.0\refint\CarroViagem.dll
+C:\Inova.acaoPCD-CESAR\CarroViagem\obj\Debug\net6.0\CarroViagem.pdb
+C:\Inova.acaoPCD-CESAR\CarroViagem\obj\Debug\net6.0\CarroViagem.genruntimeconfig.cache
+C:\Inova.acaoPCD-CESAR\CarroViagem\obj\Debug\net6.0\ref\CarroViagem.dll

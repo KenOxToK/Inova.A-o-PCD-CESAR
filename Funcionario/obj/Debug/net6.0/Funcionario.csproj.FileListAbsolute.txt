@@ -1,0 +1,15 @@
+C:\Inova.acaoPCD-CESAR\Funcionario\bin\Debug\net6.0\Funcionario.exe
+C:\Inova.acaoPCD-CESAR\Funcionario\bin\Debug\net6.0\Funcionario.deps.json
+C:\Inova.acaoPCD-CESAR\Funcionario\bin\Debug\net6.0\Funcionario.runtimeconfig.json
+C:\Inova.acaoPCD-CESAR\Funcionario\bin\Debug\net6.0\Funcionario.dll
+C:\Inova.acaoPCD-CESAR\Funcionario\bin\Debug\net6.0\Funcionario.pdb
+C:\Inova.acaoPCD-CESAR\Funcionario\obj\Debug\net6.0\Funcionario.csproj.AssemblyReference.cache
+C:\Inova.acaoPCD-CESAR\Funcionario\obj\Debug\net6.0\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inova.acaoPCD-CESAR\Funcionario\obj\Debug\net6.0\Funcionario.AssemblyInfoInputs.cache
+C:\Inova.acaoPCD-CESAR\Funcionario\obj\Debug\net6.0\Funcionario.AssemblyInfo.cs
+C:\Inova.acaoPCD-CESAR\Funcionario\obj\Debug\net6.0\Funcionario.csproj.CoreCompileInputs.cache
+C:\Inova.acaoPCD-CESAR\Funcionario\obj\Debug\net6.0\Funcionario.dll
+C:\Inova.acaoPCD-CESAR\Funcionario\obj\Debug\net6.0\refint\Funcionario.dll
+C:\Inova.acaoPCD-CESAR\Funcionario\obj\Debug\net6.0\Funcionario.pdb
+C:\Inova.acaoPCD-CESAR\Funcionario\obj\Debug\net6.0\Funcionario.genruntimeconfig.cache
+C:\Inova.acaoPCD-CESAR\Funcionario\obj\Debug\net6.0\ref\Funcionario.dll
