@@ -1,0 +1,15 @@
+C:\Inova.acaoPCD-CESAR\Execicios0102\bin\Debug\net6.0\Execicios0102.exe
+C:\Inova.acaoPCD-CESAR\Execicios0102\bin\Debug\net6.0\Execicios0102.deps.json
+C:\Inova.acaoPCD-CESAR\Execicios0102\bin\Debug\net6.0\Execicios0102.runtimeconfig.json
+C:\Inova.acaoPCD-CESAR\Execicios0102\bin\Debug\net6.0\Execicios0102.dll
+C:\Inova.acaoPCD-CESAR\Execicios0102\bin\Debug\net6.0\Execicios0102.pdb
+C:\Inova.acaoPCD-CESAR\Execicios0102\obj\Debug\net6.0\Execicios0102.csproj.AssemblyReference.cache
+C:\Inova.acaoPCD-CESAR\Execicios0102\obj\Debug\net6.0\Execicios0102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inova.acaoPCD-CESAR\Execicios0102\obj\Debug\net6.0\Execicios0102.AssemblyInfoInputs.cache
+C:\Inova.acaoPCD-CESAR\Execicios0102\obj\Debug\net6.0\Execicios0102.AssemblyInfo.cs
+C:\Inova.acaoPCD-CESAR\Execicios0102\obj\Debug\net6.0\Execicios0102.csproj.CoreCompileInputs.cache
+C:\Inova.acaoPCD-CESAR\Execicios0102\obj\Debug\net6.0\Execicios0102.dll
+C:\Inova.acaoPCD-CESAR\Execicios0102\obj\Debug\net6.0\refint\Execicios0102.dll
+C:\Inova.acaoPCD-CESAR\Execicios0102\obj\Debug\net6.0\Execicios0102.pdb
+C:\Inova.acaoPCD-CESAR\Execicios0102\obj\Debug\net6.0\Execicios0102.genruntimeconfig.cache
+C:\Inova.acaoPCD-CESAR\Execicios0102\obj\Debug\net6.0\ref\Execicios0102.dll
