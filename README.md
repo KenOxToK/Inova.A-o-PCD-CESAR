@@ -4,10 +4,11 @@
 • Programação Orientada a Objetos
 • Banco de Dados
 
-• 1 a 5/5.1exericicos 
+• 01 exericios com 01 a 05  
+• 5/5.1exericicos
 • Projetos com 4 pessoas no grupo
 
-• Herança 
+• Herança
 • Atividade
 • Exercício  
 • Banco de dados
